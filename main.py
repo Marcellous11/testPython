@@ -1,4 +1,4 @@
 import openai
 
 
-print("This is the repo")
+print("This is the local repo")
