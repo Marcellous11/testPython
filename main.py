@@ -4,7 +4,7 @@ import openai
 print("This is the local repo")
 print("This is the local repo")
 
-newData = [1, 2, 34, 34, 5, 6, 7, 8, 9, 10]
+newData = ["the","cat","feel"]
 
 for cal in newData:
     print(cal)
